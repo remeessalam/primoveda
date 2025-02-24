@@ -48,7 +48,7 @@ const Home = () => {
                 Innovation to transform your organization.
               </h3>
               <p className="description">
-                At Primoveda Solutions, we are driven by a passion for
+                At INVEDA SOLUTIONS LLP, we are driven by a passion for
                 innovation and a commitment to delivering reliable, future-proof
                 solutions for businesses of all sizes. From the very beginning,
                 our goal has been to help organizations navigate the
@@ -134,7 +134,7 @@ const Home = () => {
           <div className="flex flex-col gap-5">
             <h3 className="heading">Our CEO Message</h3>
             <p className="description">
-              At Primoveda Solutions, we leverage the power of AI to create
+              At INVEDA SOLUTIONS LLP, we leverage the power of AI to create
               transformative digital experiences that elevate businesses. Our
               commitment to innovation drives us to develop intelligent
               solutions that enhance efficiency and foster growth. Together, we

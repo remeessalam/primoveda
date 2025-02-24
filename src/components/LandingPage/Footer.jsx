@@ -7,7 +7,8 @@ import { clientDetails, logo } from "../../constants";
 
 const Footer = () => {
   return (
-    <div className="bg-[#2b0a05] py-[3rem] text-white">
+    // bg-[#2b0a05]
+    <div className=" bg-primary/10 py-[3rem] text-black">
       <div className="px-5 sm:px-10 flex flex-col gap-3 sm:flex-row items-center justify-between">
         <div className="flex flex-col gap-3 items-start">
           <img
@@ -19,8 +20,12 @@ const Footer = () => {
             className="h-[4.5rem] object-contain"
           />
           <div className="space-y-2 flex flex-col mt-5">
-            <Link to={`mailto:${clientDetails.email}`} className="">{clientDetails.email}</Link>
-            <Link to={`tel:${clientDetails.phone}`} className="">+{clientDetails.phone}</Link>
+            <Link to={`mailto:${clientDetails.email}`} className="">
+              {clientDetails.email}
+            </Link>
+            <Link to={`tel:${clientDetails.phone}`} className="">
+              +{clientDetails.phone}
+            </Link>
             <p className="">{clientDetails.address}</p>
           </div>
         </div>

@@ -19,7 +19,7 @@ const OurServices = () => {
       <section className="py-[3rem]">
         <div className="wrapper">
           <p className="description text-center">
-            At Primoveda Solutions, we specialize in creating advanced,
+            At INVEDA SOLUTIONS LLP, we specialize in creating advanced,
             tailor-made technology solutions designed to meet the unique needs
             of your business. Whether you are looking to improve operational
             efficiency, enhance user experiences, or harness the latest tech

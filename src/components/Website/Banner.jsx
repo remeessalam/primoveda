@@ -70,7 +70,7 @@ const Banner = () => {
         >
           <p className="text-xl   tracking-wide text-white mt-2">
             Welcome to{" "}
-            <span className="text-white font-bold">Primoveda Solutions</span>
+            <span className="text-white font-bold">INVEDA SOLUTIONS LLP</span>
           </p>
           <h1 className="heading-1 text-white capitalize">
             Empowering Your Future with AI Innovation

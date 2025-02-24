@@ -395,7 +395,7 @@ export const testimonials = [
     name: "Aarav Kapoor",
     title: "Founder of TechSphere Innovations",
     description:
-      "Primoveda Solutions delivered an exceptional blockchain solution that revolutionized our operations. Their expertise in blockchain development is unmatched!",
+      "INVEDA SOLUTIONS LLP delivered an exceptional blockchain solution that revolutionized our operations. Their expertise in blockchain development is unmatched!",
   },
   {
     id: 2,
@@ -403,7 +403,7 @@ export const testimonials = [
     name: "Sanya Mehta",
     title: "CTO of GreenLink Energy Solutions",
     description:
-      "The mobile app developed by Primoveda Solutions transformed our business. Their app development team is highly skilled and delivered a seamless user experience.",
+      "The mobile app developed by INVEDA SOLUTIONS LLP transformed our business. Their app development team is highly skilled and delivered a seamless user experience.",
   },
   {
     id: 3,
@@ -411,7 +411,7 @@ export const testimonials = [
     name: "Rahul Verma",
     title: "Director of OmniTrade Logistics",
     description:
-      "Primoveda Solutions implemented an AI-driven system that optimized our logistics operations. Their artificial intelligence development expertise is truly impressive.",
+      "INVEDA SOLUTIONS LLP implemented an AI-driven system that optimized our logistics operations. Their artificial intelligence development expertise is truly impressive.",
   },
   {
     id: 4,
@@ -419,7 +419,7 @@ export const testimonials = [
     name: "Dr. Ananya Gupta",
     title: "CEO of MedEase Technologies",
     description:
-      "The machine learning models developed by Primoveda Solutions have significantly improved our data analysis capabilities. Their work is both innovative and impactful.",
+      "The machine learning models developed by INVEDA SOLUTIONS LLP have significantly improved our data analysis capabilities. Their work is both innovative and impactful.",
   },
   {
     id: 5,
@@ -427,7 +427,7 @@ export const testimonials = [
     name: "Neha Sharma",
     title: "Head of Operations at FinTech Solutions",
     description:
-      "Primoveda Solutions created a stunning and highly functional website for us. Their web development team is professional, creative, and detail-oriented.",
+      "INVEDA SOLUTIONS LLP created a stunning and highly functional website for us. Their web development team is professional, creative, and detail-oriented.",
   },
   {
     id: 6,
@@ -435,7 +435,7 @@ export const testimonials = [
     name: "Vikram Singh",
     title: "Product Manager at HealthTech Innovations",
     description:
-      "The UI/UX design by Primoveda Solutions elevated our platform to a whole new level. Their designs are intuitive, user-friendly, and visually appealing.",
+      "The UI/UX design by INVEDA SOLUTIONS LLP elevated our platform to a whole new level. Their designs are intuitive, user-friendly, and visually appealing.",
   },
   {
     id: 7,
@@ -443,7 +443,7 @@ export const testimonials = [
     name: "Priya Patel",
     title: "COO of AutoTech Systems",
     description:
-      "Primoveda Solutions implemented RPA solutions that streamlined our workflows and boosted efficiency. Their robotic process automation expertise is top-notch.",
+      "INVEDA SOLUTIONS LLP implemented RPA solutions that streamlined our workflows and boosted efficiency. Their robotic process automation expertise is top-notch.",
   },
 ];
 // industry company serve

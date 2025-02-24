@@ -7,7 +7,7 @@ import { allServices, clientDetails, logo } from "../../constants";
 
 const Footer = () => {
   return (
-    <footer className="bg-primary/40 py-[3rem] text-black">
+    <footer className="bg-primary/10 py-[3rem] text-black">
       <div className="wrapper mx-auto px-5 sm:px-10 flex flex-col gap-3 sm:flex-row justify-between">
         <div className="flex flex-col gap-3 items-start">
           <img
