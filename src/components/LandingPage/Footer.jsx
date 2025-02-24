@@ -31,13 +31,13 @@ const Footer = () => {
         </div>
         <div className="">
           <div className="flex mt-3 gap-5 justify-start">
-            <Link>
+            <Link to={clientDetails.linkedin}>
               <FaLinkedinIn className="text-2xl" />
             </Link>
-            <Link>
+            <Link to={clientDetails.instagram}>
               <AiFillInstagram className="text-2xl" />
             </Link>
-            <Link>
+            <Link to={clientDetails.facebook}>
               <GrFacebookOption className="text-2xl" />
             </Link>
           </div>

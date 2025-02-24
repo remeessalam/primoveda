@@ -65,6 +65,10 @@ export const clientDetails = {
   phone: "+91-9561140911",
   email: "info@invedasolutions.com",
   address: `porvorim,Goa 403521`,
+  instagram:
+    "https://www.instagram.com/inveda_solutions?igsh=MW90dmNqaDBoNzZ2OQ%3D%3D&utm_source=qr",
+  facebook: "https://www.facebook.com/share/18Lv28f74T/?mibextid=wwXIfr",
+  linkedin: "https://www.linkedin.com/company/inveda-solutions/",
 };
 
 // landing page header links

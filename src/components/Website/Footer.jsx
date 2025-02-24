@@ -24,13 +24,13 @@ const Footer = () => {
           </p>
 
           <div className="flex mt-3 gap-5 items-center">
-            <Link to="#">
+            <Link to={clientDetails.linkedin}>
               <FaLinkedinIn className="text-2xl" />
             </Link>
-            <Link to="#">
+            <Link to={clientDetails.instagram}>
               <AiFillInstagram className="text-2xl" />
             </Link>
-            <Link to="#">
+            <Link to={clientDetails.facebook}>
               <GrFacebookOption className="text-2xl" />
             </Link>
           </div>
