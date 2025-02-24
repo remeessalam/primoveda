@@ -7,7 +7,7 @@ const Portfolio = ({ page }) => {
     const isWebDevelopment = Boolean(page === "web-development");
     portfolio = isWebDevelopment ? webPortfolio : appPortfolio;
   } else {
-    portfolio = [...webPortfolio, ...appPortfolio];
+    portfolio = [...webPortfolio.slice(0, 4), ...appPortfolio.slice(0, 4)];
   }
   return (
     <div id="portfolio" className="  py-[2rem] relative">
