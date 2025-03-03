@@ -64,7 +64,7 @@ export const clientDetails = {
     "https://api.whatsapp.com/send/?phone=9561140911&text&type=phone_number&app_absent=0",
   phone: "+91-9561140911",
   email: "info@invedasolutions.com",
-  address: `porvorim,Goa 403521`,
+  address: `Miramar Panaji Goa, 403002`,
   instagram:
     "https://www.instagram.com/inveda_solutions?igsh=MW90dmNqaDBoNzZ2OQ%3D%3D&utm_source=qr",
   facebook: "https://www.facebook.com/share/18Lv28f74T/?mibextid=wwXIfr",
@@ -422,7 +422,7 @@ export const testimonials = [
     name: "Aarav Kapoor",
     title: "Founder of TechSphere Innovations",
     description:
-      "INVEDA SOLUTIONS LLP delivered an exceptional blockchain solution that revolutionized our operations. Their expertise in blockchain development is unmatched!",
+      "INVEDA SOLUTIONS delivered an exceptional blockchain solution that revolutionized our operations. Their expertise in blockchain development is unmatched!",
   },
   {
     id: 2,
@@ -430,7 +430,7 @@ export const testimonials = [
     name: "Sanya Mehta",
     title: "CTO of GreenLink Energy Solutions",
     description:
-      "The mobile app developed by INVEDA SOLUTIONS LLP transformed our business. Their app development team is highly skilled and delivered a seamless user experience.",
+      "The mobile app developed by INVEDA SOLUTIONS transformed our business. Their app development team is highly skilled and delivered a seamless user experience.",
   },
   {
     id: 3,
@@ -438,7 +438,7 @@ export const testimonials = [
     name: "Rahul Verma",
     title: "Director of OmniTrade Logistics",
     description:
-      "INVEDA SOLUTIONS LLP implemented an AI-driven system that optimized our logistics operations. Their artificial intelligence development expertise is truly impressive.",
+      "INVEDA SOLUTIONS implemented an AI-driven system that optimized our logistics operations. Their artificial intelligence development expertise is truly impressive.",
   },
   {
     id: 4,
@@ -446,7 +446,7 @@ export const testimonials = [
     name: "Dr. Ananya Gupta",
     title: "CEO of MedEase Technologies",
     description:
-      "The machine learning models developed by INVEDA SOLUTIONS LLP have significantly improved our data analysis capabilities. Their work is both innovative and impactful.",
+      "The machine learning models developed by INVEDA SOLUTIONS have significantly improved our data analysis capabilities. Their work is both innovative and impactful.",
   },
   {
     id: 5,
@@ -454,7 +454,7 @@ export const testimonials = [
     name: "Neha Sharma",
     title: "Head of Operations at FinTech Solutions",
     description:
-      "INVEDA SOLUTIONS LLP created a stunning and highly functional website for us. Their web development team is professional, creative, and detail-oriented.",
+      "INVEDA SOLUTIONS created a stunning and highly functional website for us. Their web development team is professional, creative, and detail-oriented.",
   },
   {
     id: 6,
@@ -462,7 +462,7 @@ export const testimonials = [
     name: "Vikram Singh",
     title: "Product Manager at HealthTech Innovations",
     description:
-      "The UI/UX design by INVEDA SOLUTIONS LLP elevated our platform to a whole new level. Their designs are intuitive, user-friendly, and visually appealing.",
+      "The UI/UX design by INVEDA SOLUTIONS elevated our platform to a whole new level. Their designs are intuitive, user-friendly, and visually appealing.",
   },
   {
     id: 7,
@@ -470,7 +470,7 @@ export const testimonials = [
     name: "Priya Patel",
     title: "COO of AutoTech Systems",
     description:
-      "INVEDA SOLUTIONS LLP implemented RPA solutions that streamlined our workflows and boosted efficiency. Their robotic process automation expertise is top-notch.",
+      "INVEDA SOLUTIONS implemented RPA solutions that streamlined our workflows and boosted efficiency. Their robotic process automation expertise is top-notch.",
   },
 ];
 // industry company serve

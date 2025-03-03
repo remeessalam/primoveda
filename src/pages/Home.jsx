@@ -48,12 +48,12 @@ const Home = () => {
                 Innovation to transform your organization.
               </h3>
               <p className="description">
-                At INVEDA SOLUTIONS LLP, we are driven by a passion for
-                innovation and a commitment to delivering reliable, future-proof
-                solutions for businesses of all sizes. From the very beginning,
-                our goal has been to help organizations navigate the
-                complexities of the digital world with customized, secure, and
-                scalable technology solutions that deliver real results.
+                At INVEDA SOLUTIONS, we are driven by a passion for innovation
+                and a commitment to delivering reliable, future-proof solutions
+                for businesses of all sizes. From the very beginning, our goal
+                has been to help organizations navigate the complexities of the
+                digital world with customized, secure, and scalable technology
+                solutions that deliver real results.
                 <br />
                 <br /> We believe that technology isn’t just about solving
                 problems — it’s about unlocking new possibilities. Our expertise
@@ -134,7 +134,7 @@ const Home = () => {
           <div className="flex flex-col gap-5">
             <h3 className="heading">Our CEO Message</h3>
             <p className="description">
-              At INVEDA SOLUTIONS LLP, we leverage the power of AI to create
+              At INVEDA SOLUTIONS, we leverage the power of AI to create
               transformative digital experiences that elevate businesses. Our
               commitment to innovation drives us to develop intelligent
               solutions that enhance efficiency and foster growth. Together, we

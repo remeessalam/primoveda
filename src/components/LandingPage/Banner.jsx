@@ -90,7 +90,7 @@ const Banner = ({ page }) => {
                   className="description text-white mt-2"
                 >
                   In today's dynamic business landscape, having a robust online
-                  presence is vital. At INVEDA SOLUTIONS LLP, we specialize in
+                  presence is vital. At INVEDA SOLUTIONS, we specialize in
                   creating innovative, high-performance websites and
                   applications tailored to your specific needs. Our solutions
                   ensure smooth user experiences and build meaningful,
@@ -107,7 +107,7 @@ const Banner = ({ page }) => {
                   className="description text-white mt-2"
                 >
                   In today's competitive landscape, a cutting-edge mobile app is
-                  crucial for success. At INVEDA SOLUTIONS LLP, we design
+                  crucial for success. At INVEDA SOLUTIONS, we design
                   user-friendly, high-performance apps tailored to your business
                   needs, ensuring exceptional user experiences and building
                   strong, enduring connections.

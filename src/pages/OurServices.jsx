@@ -19,14 +19,13 @@ const OurServices = () => {
       <section className="py-[3rem]">
         <div className="wrapper">
           <p className="description text-center">
-            At INVEDA SOLUTIONS LLP, we specialize in creating advanced,
-            tailor-made technology solutions designed to meet the unique needs
-            of your business. Whether you are looking to improve operational
-            efficiency, enhance user experiences, or harness the latest tech
-            trends, our expert team is dedicated to delivering solutions that
-            drive real growth and innovation. Take a closer look at the services
-            we offer to help your business thrive in today’s fast-paced digital
-            world.
+            At INVEDA SOLUTIONS, we specialize in creating advanced, tailor-made
+            technology solutions designed to meet the unique needs of your
+            business. Whether you are looking to improve operational efficiency,
+            enhance user experiences, or harness the latest tech trends, our
+            expert team is dedicated to delivering solutions that drive real
+            growth and innovation. Take a closer look at the services we offer
+            to help your business thrive in today’s fast-paced digital world.
           </p>
           <div className="">
             <HomePageServicesList />

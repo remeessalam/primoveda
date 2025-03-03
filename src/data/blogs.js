@@ -3,17 +3,17 @@ export const blogs = [
     id: 1,
     image: require("../assets/blogs/1.webp"),
     title:
-      "Elevate Your Online Presence with INVEDA SOLUTIONS LLP – The Leading Website Development Company in Bangalore",
-    desc: "In today’s digital era, a professional and user-friendly website is not just a luxury but a necessity for businesses to thrive. At INVEDA SOLUTIONS LLP, a premier website development company in Bangalore, we specialize in creating cutting-edge websites that combine functionality, aesthetics, and advanced technology to drive success in the online marketplace.",
+      "Elevate Your Online Presence with INVEDA SOLUTIONS – The Leading Website Development Company in Bangalore",
+    desc: "In today’s digital era, a professional and user-friendly website is not just a luxury but a necessity for businesses to thrive. At INVEDA SOLUTIONS, a premier website development company in Bangalore, we specialize in creating cutting-edge websites that combine functionality, aesthetics, and advanced technology to drive success in the online marketplace.",
     contentHtml: `<h1 class="heading text-center mb-6">
-              Elevate Your Online Presence with INVEDA SOLUTIONS LLP – The Leading Website
+              Elevate Your Online Presence with INVEDA SOLUTIONS – The Leading Website
               Development Company in Bangalore
             </h1>
             <p class="description">
               In today’s digital era, a professional and user-friendly website is
               not just a luxury but a necessity for businesses to thrive. At
               <a href="/">
-                <b>INVEDA SOLUTIONS LLP</b>
+                <b>INVEDA SOLUTIONS</b>
               </a>
               , a premier 
               <a href="/web-development">
@@ -25,12 +25,12 @@ export const blogs = [
             </p>
   
             <h2 class="text-3xl font-semibold mb-4 mt-[4rem]">
-              Why Choose INVEDA SOLUTIONS LLP for Website Development?
+              Why Choose INVEDA SOLUTIONS for Website Development?
             </h2>
             <p class="text-lg mb-6">
               As a technology-driven company, 
               <a href="/">
-                <b>INVEDA SOLUTIONS LLP</b>
+                <b>INVEDA SOLUTIONS</b>
               </a> 
               understands that every business is unique. We focus on crafting
               customized websites that align with your brand’s identity and
@@ -64,7 +64,7 @@ export const blogs = [
             <p class="text-lg mb-6">
               At 
               <a href="/">
-                <b>INVEDA SOLUTIONS LLP</b>
+                <b>INVEDA SOLUTIONS</b>
               </a>
               , our range of services caters to diverse industries and
               requirements. Whether you’re a startup or an established enterprise,
@@ -102,14 +102,14 @@ export const blogs = [
               businesses competing in a fast-paced digital environment. Partnering
               with a reliable website development company in Bangalore like
               <a href="/">
-                <b>INVEDA SOLUTIONS LLP</b>
+                <b>INVEDA SOLUTIONS</b>
               </a> 
               ensures your brand stands out with a robust and engaging online
               presence.
             </p>
   
             <h2 class="text-3xl font-semibold mt-[4rem] mb-4">
-              The INVEDA SOLUTIONS LLP Advantage
+              The INVEDA SOLUTIONS Advantage
             </h2>
             <ul class="list-disc pl-8 space-y-4 text-lg mb-6">
               <li>
@@ -132,7 +132,7 @@ export const blogs = [
               Ready to Build Your Dream Website?
             </h2>
             <p class="text-lg mb-6">
-              Transform your online presence and drive growth with INVEDA SOLUTIONS LLP,
+              Transform your online presence and drive growth with INVEDA SOLUTIONS,
               the go-to website development company in Bangalore. Let us bring
               your ideas to life with cutting-edge solutions tailored to your
               business.
@@ -142,16 +142,16 @@ export const blogs = [
     id: 2,
     image: require("../assets/blogs/2.webp"),
     title:
-      "Transforming Ideas into Reality: Mobile App Development with INVEDA SOLUTIONS LLP",
-    desc: "In today’s digital-first world, a robust mobile app is essential for businesses to thrive and connect with their customers. At INVEDA SOLUTIONS LLP, a leading mobile app development company in Bangalore, we specialize in creating innovative, user-friendly mobile applications that help businesses stay ahead in the competitive digital landscape.",
+      "Transforming Ideas into Reality: Mobile App Development with INVEDA SOLUTIONS",
+    desc: "In today’s digital-first world, a robust mobile app is essential for businesses to thrive and connect with their customers. At INVEDA SOLUTIONS, a leading mobile app development company in Bangalore, we specialize in creating innovative, user-friendly mobile applications that help businesses stay ahead in the competitive digital landscape.",
     contentHtml: `<h1 class="heading text-center mb-6">
-        Transforming Ideas into Reality: Mobile App Development with INVEDA SOLUTIONS LLP
+        Transforming Ideas into Reality: Mobile App Development with INVEDA SOLUTIONS
       </h1>
       <p class="description">
         In today’s digital-first world, a robust mobile app is essential for
         businesses to thrive and connect with their customers. At 
         <a href="/">
-          <b>INVEDA SOLUTIONS LLP</b>
+          <b>INVEDA SOLUTIONS</b>
         </a>
         , a leading 
         <a href="/mobile-app-development">
@@ -178,10 +178,10 @@ export const blogs = [
       </p>
   
       <h2 class="text-3xl font-semibold mt-[4rem] mb-4">
-        Why Choose INVEDA SOLUTIONS LLP for Mobile App Development?
+        Why Choose INVEDA SOLUTIONS for Mobile App Development?
       </h2>
       <p class="text-lg mb-6">
-        As a premier mobile app development company in Bangalore, INVEDA SOLUTIONS LLP
+        As a premier mobile app development company in Bangalore, INVEDA SOLUTIONS
         offers:
       </p>
       <ul class="list-disc pl-8 space-y-4 text-lg mb-6">
@@ -228,7 +228,7 @@ export const blogs = [
         Experience Excellence in Mobile App Development
       </h2>
       <p class="text-lg mb-6">
-        Located in the heart of India’s tech hub, INVEDA SOLUTIONS LLP stands out as a top
+        Located in the heart of India’s tech hub, INVEDA SOLUTIONS stands out as a top
         mobile app development company in Bangalore. With our expertise and
         commitment to innovation, we transform your ideas into feature-rich mobile
         applications that drive results.

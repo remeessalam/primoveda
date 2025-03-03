@@ -26,16 +26,16 @@ const AboutUs = () => {
       <section className="py-[3rem] wrapper grid gap-10 lg:grid-cols-2">
         <div className="flex flex-col">
           <h1 data-aos="fade-right" className="heading">
-            INVEDA SOLUTIONS LLP Leading in Software Development and Advanced
-            Tech Solutions
+            INVEDA SOLUTIONS Leading in Software Development and Advanced Tech
+            Solutions
           </h1>
           <p data-aos="fade-right" className="description mt-4">
-            INVEDA SOLUTIONS LLP was founded with a vision to transform
-            businesses by leveraging the power of AI and advanced technologies.
-            Our passion for innovation drives us to deliver solutions that not
-            only meet industry standards but set new ones. With a global reach
-            and a team of experts dedicated to excellence, we are committed to
-            helping our clients achieve unparalleled growth and success.
+            INVEDA SOLUTIONS was founded with a vision to transform businesses
+            by leveraging the power of AI and advanced technologies. Our passion
+            for innovation drives us to deliver solutions that not only meet
+            industry standards but set new ones. With a global reach and a team
+            of experts dedicated to excellence, we are committed to helping our
+            clients achieve unparalleled growth and success.
           </p>
         </div>
         <div
