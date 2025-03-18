@@ -132,13 +132,23 @@ const Home = () => {
             />
           </div>
           <div className="flex flex-col gap-5">
-            <h3 className="heading">Our CEO Message</h3>
+            <h3 className="heading">Message to Entrepreneurs</h3>
             <p className="description">
-              At INVEDA SOLUTIONS, we leverage the power of AI to create
-              transformative digital experiences that elevate businesses. Our
-              commitment to innovation drives us to develop intelligent
-              solutions that enhance efficiency and foster growth. Together, we
-              can turn your ideas into reality and shape a smarter future.
+              "In today’s fast-evolving digital world, technology is no longer
+              just an advantage—it’s a necessity. As entrepreneurs, embracing
+              AI, automation, and digital transformation can be the key to
+              unlocking new opportunities, scaling businesses, and staying ahead
+              of the competition. At INVEDA Solutions, we believe that
+              innovation, adaptability, and data-driven strategies are the
+              pillars of success in the modern business landscape.
+              <br />
+              <br />
+              Whether you’re a startup or an established enterprise, investing
+              in custom software solutions, AI-driven automation, and digital
+              platforms will define your future growth. The world is changing
+              rapidly, and those who embrace technology and innovation today
+              will lead tomorrow. Let’s build a smarter, more sustainable
+              future—together!"
             </p>
           </div>
         </div>

@@ -350,7 +350,7 @@ export const allServices = [
     id: 6,
     img1: require("./assets/services-details/ui-ux-1.jpg"),
     img2: require("./assets/services-details/ui-ux-2.jpg"),
-    title: "UI/UX Design",
+    title: "UI UX Design",
     smallPara:
       "UI/UX design is the process of creating user interfaces and experiences that are intuitive, engaging, and visually appealing. It involves understanding user behavior, designing wireframes and prototypes, and testing designs to ensure they meet user needs.\n\nEffective UI/UX design is critical for creating digital products that are easy to use, aesthetically pleasing, and aligned with business goals, ultimately driving user satisfaction and loyalty.",
     keyBenefits: [
@@ -390,6 +390,112 @@ export const allServices = [
           \n
           Our services include RPA strategy development, process automation, and integration with existing systems. We focus on delivering scalable, efficient, and innovative RPA solutions that drive growth and create value for your business.,
     `,
+    },
+  },
+  {
+    id: 8,
+    img1: require("./assets/services-details/cloud-1.jpg"),
+    img2: require("./assets/services-details/cloud-2.jpg"),
+    title: "Cloud Services",
+    smallPara:
+      "Cloud services offer scalable, flexible, and cost-effective solutions for businesses to store, manage, and process data. With the ability to access resources on-demand, cloud computing is revolutionizing how organizations operate and grow.",
+    keyBenefits: [
+      "Scalable and flexible resource management.",
+      "Cost-effective storage and computing solutions.",
+      "Enhanced collaboration and accessibility.",
+      "Robust data security and disaster recovery.",
+    ],
+    detailsPageContent: {
+      firstPara: `Cloud computing has become the backbone of modern digital infrastructure, providing businesses with the flexibility to scale resources, reduce operational costs, and enhance collaboration. From data storage to application hosting, cloud services offer a comprehensive solution for businesses of all sizes.
+          \n
+          Our cloud services are designed to meet your unique needs, whether you are migrating to the cloud, optimizing your current cloud infrastructure, or building cloud-native applications. We ensure secure, scalable, and reliable solutions that drive innovation and operational efficiency.,
+      servicesSection: Our offerings include cloud migration, cloud infrastructure management, and cloud-native development. We partner with leading cloud platforms like AWS, Azure, and Google Cloud to deliver tailored solutions that enhance your digital capabilities.
+          \n
+          Our cloud services cover storage management, application deployment, security, and disaster recovery, ensuring your business remains agile and resilient in a dynamic environment.
+
+          \n
+          Cloud Migration
+          \n
+          Migrating to the cloud doesn’t have to be difficult. We offer comprehensive cloud migration services that ensure a seamless transition of your data, applications, and systems. We take care of every detail to ensure that your migration is smooth, with minimal downtime, and no loss of data.
+          - Strategy and planning for seamless cloud migration
+          - Data and application migration with minimal disruption
+          - Post-migration optimization for efficiency and cost savings
+          - Ongoing cloud management and support
+
+          \n
+          Cloud Security
+          \n
+          While the cloud offers tremendous flexibility and scalability, it also introduces new risks. Our cloud security services are designed to protect your data, applications, and systems in the cloud. We use the latest security technologies such as encryption, multi-factor authentication (MFA), and identity access management (IAM) to ensure that your cloud infrastructure is fully protected.
+          - End-to-end encryption for cloud data storage and transfer
+          - Identity and access management to control who accesses your data
+          - Multi-factor authentication to enhance security
+          - Continuous monitoring to protect your cloud environment
+
+          \n
+          Backup & Disaster Recovery
+          \n
+          Disasters can strike at any time, and having a reliable backup and recovery plan in place is critical to minimizing downtime. Our cloud backup and disaster recovery services ensure that your data is always protected, even in the event of an emergency. We offer automated backups, fast recovery times, and a comprehensive disaster recovery plan to keep your business running smoothly.
+          - Automated cloud backups for all critical data
+          - Fast and reliable disaster recovery solutions
+          - Continuous testing and monitoring of backup systems
+          - Business continuity planning for quick recovery
+
+          \n
+          Hybrid Cloud Solutions
+          \n
+          Many businesses require a blend of private and public cloud solutions. Our hybrid cloud services provide the flexibility to combine both environments, optimizing performance, security, and cost-effectiveness. We work with you to design a customized hybrid cloud strategy that aligns with your specific business needs.
+          - Seamless integration of public and private cloud systems
+          - Scalable solutions that grow with your business
+          - Optimized cloud resource allocation for performance and cost
+          - Continuous monitoring and management of your hybrid environment
+      `,
+    },
+  },
+  {
+    id: 9,
+    img1: require("./assets/services-details/cybersecurity-1.jpg"),
+    img2: require("./assets/services-details/cybersecurity-2.jpg"),
+    title: "Cybersecurity",
+    smallPara:
+      "Cybersecurity is essential for protecting digital assets from cyber threats and ensuring business continuity. With the increasing number of cyberattacks, organizations must adopt robust security measures to safeguard sensitive data and systems.",
+    keyBenefits: [
+      "Comprehensive protection against cyber threats.",
+      "Proactive threat detection and response.",
+      "Compliance with industry standards and regulations.",
+      "Enhanced data privacy and secure business operations.",
+    ],
+    detailsPageContent: {
+      firstPara: `In an era of digital transformation, cybersecurity has become a top priority for businesses to protect their sensitive data and maintain trust. From network security to data encryption, our comprehensive cybersecurity solutions safeguard your organization from evolving threats.
+          \n
+          Our cybersecurity services include threat detection, vulnerability management, and incident response. We ensure that your business remains resilient against cyberattacks while maintaining compliance with regulatory standards.
+
+          \n
+          Endpoint Security
+          \n
+          Your devices are vulnerable points in your network, and protecting them is critical to your overall security strategy. We provide comprehensive endpoint security solutions that protect every device on your network. By deploying cutting-edge antivirus, encryption, and anti-malware solutions, we ensure that your endpoints are secure and your data stays safe.
+          - Real-time protection against malware and cyberattacks
+          - Device encryption to secure sensitive data
+          - Seamless integration into your existing systems
+          - Ongoing monitoring for vulnerabilities
+
+          \n
+          Network Security
+          \n
+          Our network security services include firewalls, intrusion detection systems, and continuous monitoring, all designed to safeguard your network against unauthorized access and potential threats.
+          - Firewall management and security configurations
+          - Intrusion detection and prevention systems (IDS/IPS)
+          - Secure VPN solutions for remote access
+          - Continuous monitoring and threat analysis
+
+          \n
+          Threat Detection & Incident Response
+          \n
+          Our advanced threat detection systems monitor your systems in real-time, identifying potential security breaches before they can cause damage. Our incident response team is ready to act quickly.
+          - 24/7 surveillance and threat detection
+          - Rapid incident response to mitigate damage
+          - Detailed post-incident analysis and reporting
+          - Continuous improvement of security practices
+      `,
     },
   },
 ];
