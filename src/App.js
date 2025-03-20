@@ -16,6 +16,7 @@ import SpinnerContextProvider, {
 } from "./components/SpinnerContext";
 import { Toaster } from "react-hot-toast";
 
+const Thankyou = lazy(() => import("./pages/Thankyou"));
 const Home = lazy(() => import("./pages/Home"));
 const OurServices = lazy(() => import("./pages/OurServices"));
 const ContactUs = lazy(() => import("./pages/ContactUs"));
@@ -54,6 +55,7 @@ function App() {
               <Route path="/industries" element={<Industries />} />
               <Route path="/blogs" element={<Blogs />} />
               <Route path="/blog-detail/:id" element={<BlogsDetail />} />
+              <Route path="/thank-you" element={<Thankyou />} />
 
               {/* Services Detail Routes with Layout */}
               <Route path="/services" element={<ServicePageLayout />}>

@@ -77,7 +77,7 @@ const Form = () => {
         } else {
           toast.success("Email sent successfully");
           reset();
-        //   navigate("/thank-you");
+          navigate("/thank-you");
         }
       })
       .catch((error) => {
